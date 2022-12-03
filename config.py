@@ -1,0 +1,5 @@
+omdb_api_key = '396a6798'
+open_weather_api_key = 'efe3783336bdcffd73ac4fb286c7fdfe'
+geoapify_key = '371c2b21ca9c4d8782875929e82217a9'
+census_key = '833879848d2e58de0c9105d3a52d0a79e80df277'
+covid_api = '3809c8a0d9764d18895b1d99011f6b53'
