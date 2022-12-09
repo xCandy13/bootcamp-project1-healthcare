@@ -1,0 +1,5 @@
+# ignore config.py
+config.py
+# ignore other cached items
+__pycache__
+.ipynb_checkpoints
