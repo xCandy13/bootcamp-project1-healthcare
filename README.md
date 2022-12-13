@@ -23,11 +23,15 @@ We investigated **COVID-19 related data**, conducted **analyses regarding variou
 
 # Methodology (steps/approach)
 
-Import API Data from Covid Act Now
-Created data frame and .csv file for group use
-Individually used .csv file to locate appropriate data as it pertained to our questions
-Create code to prompt user for input (question #2)
-Create supporting visualizations based on the data set
+* Import API Data from Covid Act Now
+<img src="Images/Project 1_  COVID Analysis_API Source.png" height="540" width="960" />
+* Created data frame and .csv file for group use
+* Individually used .csv file to locate appropriate data as it pertained to our questions
+* Create code to prompt user for input (question #2)
+<img src="Images/Project 1_  COVID Analysis_Example_Input.png" height="540" width="960" />
+* Create supporting visualizations based on the data set
+<img src="Images/Project 1_  COVID Analysis_User_Input.png" height="540" width="960" />
+<img src="Images/Project 1_  COVID Analysis_State_Metrics.png" height="540" width="960" />
 
 # Analysis Conclusions (need)
 insert <.png files> with each speaker's notes
