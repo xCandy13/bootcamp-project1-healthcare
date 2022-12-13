@@ -1,5 +1,4 @@
-# bootcamp-project1-healthcare
-Tara Ahuja, Jonathan Arp, Jesse DeLaCruz, Derrick Ngo
+# COVID-19 Healthcare Analysis
 ## Background 📃
 <img src="Images/covid19.jpg" height="400" width="720" />
 The COVID-19 pandemic has affected us all, globally there have been 99,241,649 cases reported. Currently, the death total is just above one million lives at 1,080,472. COVID-19 related hospital admissions in the United States are 15,142. The total number of vaccinations administered (for ages 5 & up) is currently at 657,927,289, which means appoximately have 68.9% of the US Population have completed their primary series, and only 19.5% have received their Booster Dose.
@@ -25,11 +24,11 @@ We investigated **COVID-19 related data**, conducted **analyses regarding variou
 
 * Import API Data from Covid Act Now
 <img src="Images/Project 1_  COVID Analysis_API Source.png" height="540" width="960" />
-* Created data frame and .csv file for group use
-* Individually used .csv file to locate appropriate data as it pertained to our questions
-* Create code to prompt user for input (question #2)
+Created data frame and .csv file for group use
+Individually used .csv file to locate appropriate data as it pertained to our questions
+Create code to prompt user for input (question #2)
 <img src="Images/Project 1_  COVID Analysis_Example_Input.png" height="540" width="960" />
-* Create supporting visualizations based on the data set
+Create supporting visualizations based on the data set
 <img src="Images/Project 1_  COVID Analysis_UserInput.png" height="540" width="960" />
 <img src="Images/Project 1_  COVID Analysis_State_Metrics.png" height="540" width="960" />
 
