@@ -1,7 +1,7 @@
 # bootcamp-project1-healthcare
 Tara Ahuja, Jonathan Arp, Jesse DeLaCruz, Derrick Ngo
 ## Background 📃
-<img src="Image/covid19.jpg" height="400" width="720" />
+<img src="Images/covid19.jpg" height="400" width="720" />
 The COVID-19 pandemic has affected us all, globally there have been 99,241,649 cases reported. Currently, the death total is just above one million lives at 1,080,472. COVID-19 related hospital admissions in the United States are 15,142. The total number of vaccinations administered (for ages 5 & up) is currently at 657,927,289, which means appoximately have 68.9% of the US Population have completed their primary series, and only 19.5% have received their Booster Dose.
 
 # Project Objective
