@@ -30,7 +30,7 @@ We investigated **COVID-19 related data**, conducted **analyses regarding variou
 * Create code to prompt user for input (question #2)
 <img src="Images/Project 1_  COVID Analysis_Example_Input.png" height="540" width="960" />
 * Create supporting visualizations based on the data set
-<img src="Images/Project 1_  COVID Analysis_User_Input.png" height="540" width="960" />
+<img src="Images/Project 1_  COVID Analysis_UserInput.png" height="540" width="960" />
 <img src="Images/Project 1_  COVID Analysis_State_Metrics.png" height="540" width="960" />
 
 # Analysis Conclusions (need)
